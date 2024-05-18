@@ -165,7 +165,7 @@ nav p + p {
 }
 
 .section2 {
-    background-image: url(../images/bg-curve-mobile.svg); /* Background image for mobile */
+    background-image: url(./images/bg-curve-mobile.svg); /* Background image for mobile */
     background-repeat: no-repeat; /* No repeating background */
     background-size: auto; /* Auto background size */
     width: 100%; 
@@ -651,7 +651,7 @@ nav p + p {
     }
 
     .section2 {
-        background-image: url('./images/bg-curve-desktop.svg'); /* Background image for desktop */
+        background-image: url(./images/bg-curve-desktop.svg); /* Background image for desktop */
        
     }
     .main2 {
@@ -787,7 +787,7 @@ nav p + p {
     }
 
     .section2 {
-        background-image: url(../images/bg-curve-desktop.svg); /* Background image for desktop */
+        background-image: url(./images/bg-curve-desktop.svg); /* Background image for desktop */
        
     }
     .main2 {
